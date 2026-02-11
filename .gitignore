@@ -19,7 +19,7 @@
 .vscode/
 
 # 폴더
-*/cache/*
+Part03/Chapter07_Model/cache/*
 */keys/*
 */working/*
 */convert/*
