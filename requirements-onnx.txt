@@ -224,7 +224,7 @@ pdfminer-six==20231228
 pdfplumber==0.11.5
 pexpect==4.9.0
 pillow==10.4.0
-pinecone-client[grpc]==3.2.2 ; python_version >= "3.11" and python_version < "4.0"
+pinecone==5.4.2 ; python_version >= "3.11" and python_version < "4.0"
 pinecone-text==0.10.0
 platformdirs==4.3.6
 portalocker==2.10.1 ; python_version >= "3.11" and python_version < "4.0"

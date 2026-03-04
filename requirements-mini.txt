@@ -140,8 +140,7 @@ parso==0.8.4
 pexpect==4.9.0
 pickleshare==0.7.5
 pillow==10.4.0
-pinecone-client==4.1.2
-pinecone-plugin-interface==0.0.7
+pinecone==5.4.2
 pinecone-text==0.10.0
 pip==24.0
 platformdirs==4.3.6
